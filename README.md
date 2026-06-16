@@ -1,6 +1,6 @@
 # Databázové dotazy – CRUD tahák ke zkoušce
 
-GitHub-friendly tahák pro PHP/PDO + SQL. Zaměření: `SELECT`, `WHERE`, `LIKE`, `ORDER BY`, `LIMIT`, `JOIN`, `LEFT JOIN`, `COUNT`, `GROUP BY`, `HAVING`, `INSERT`, `UPDATE`, `DELETE`, `prepare()`, `execute()`, `fetch()`, `fetchAll()`.
+`SELECT`, `WHERE`, `LIKE`, `ORDER BY`, `LIMIT`, `JOIN`, `LEFT JOIN`, `COUNT`, `GROUP BY`, `HAVING`, `INSERT`, `UPDATE`, `DELETE`, `prepare()`, `execute()`, `fetch()`, `fetchAll()`.
 
 ---
 
