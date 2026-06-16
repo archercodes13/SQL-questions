@@ -1,4 +1,3 @@
-# SQL quick examples
 
 ## Posledních 10 knih
 
